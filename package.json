@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Study_node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhvvan/Study_node.git"
+  },
+  "author": "GR8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhvvan/Study_node/issues"
+  },
+  "homepage": "https://github.com/minhvvan/Study_node#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  }
+}
